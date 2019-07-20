@@ -7,6 +7,8 @@ Lab 32: Dynamic Forms
 ## Links and Resources
 
 - [Assignment Code](https://codesandbox.io/s/lab-32-forms-5ukt9)
+- [Netlify Site](https://dreamy-jennings-c812ff.netlify.com/) - Attempted from within Codesandbox
+
 
 ## Modules
 
